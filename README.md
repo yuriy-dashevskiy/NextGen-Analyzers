@@ -4,15 +4,15 @@ Analysis about whether Millennials have lower/higher home ownership rate compare
 <br><br>
 [Code Jam Link](https://coding-bootcamps.notion.site/November-BIA-Data-Jam-2025-2a86ed1efc9380c2b26fe3ad8c930d69)
 
-## Analysts 
+## 👨‍💼 Analysts 
 ### Josue Aranda, Yuriy Dashevskiy
 
-## Tableau Project Link
+## 📊 Tableau Project Link
 [Tableau Link](https://public.tableau.com/app/profile/yuriy.dashevskiy/viz/November2025BIAJam-HomeownershipanalysisregardingMillennials/IncomeByAgeGroupOverTimeBuyingPower)
-## Presentation Link
+## 🎬 Presentation Link
 [Prezi Presentation](https://prezi.com/view/neTfiodEveOdTQphrn8N/)
 
-## Data sets utilized
+## <img src= "https://img.icons8.com/material/280/2980B9/sheets.png" width = "30" /> Data sets utilized
 Credit: TripleTen 
 <br>
 [Main Data Set](https://coding-bootcamps.notion.site/Main-Dataset-2ab6ed1efc9380f98234cc85d59b00f0)
